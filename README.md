@@ -1,8 +1,10 @@
 AI-Powered Resume Ranker
-Project Description
-This project ranks resumes based on their relevance to a job description using Natural Language Processing (NLP) techniques. It extracts text from resumes, converts them into embeddings, and computes similarity scores against a job description using cosine similarity.
-Tech Stack
 
+Project Description
+
+This project ranks resumes based on their relevance to a job description using Natural Language Processing (NLP) techniques. It extracts text from resumes, converts them into embeddings, and computes similarity scores against a job description using cosine similarity.
+
+Tech Stack
 Python: Core programming language
 Scikit-learn: For vectorization and cosine similarity
 spaCy: For NLP text processing
